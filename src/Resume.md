@@ -25,7 +25,7 @@
 
 ###个人技能
  - 通过CET-6，能正常的阅读英文技术文档，能用英语进行日常的交流
- - 熟悉java语言，了解基本的数据结构和常用的算法
+ - 熟悉java，了解基本的数据结构和常用的算法
  - 对jsp/servlet有一定的理解，了解Struts，Spring，Hibernate等开源框架的使用
  - 熟悉html/css/javascript/ajax等前端基础，并使用过jquery等前端框架
  - 熟悉linux下的基本操作和命令，在ubuntu下折腾过vpn，让实验室同学在寝室都能得到良好的上网体验
