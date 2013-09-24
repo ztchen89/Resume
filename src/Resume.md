@@ -4,7 +4,7 @@
 ###基本信息
 
 - 姓名：陈芝腾 | 性别：男 | 出生年月：1989.02 | 籍贯：浙江温州
-- 电话：15287136837 | Email：ztchen89@gmail.com
+- 电话：15287136837 | Email：ztchen89#gmail.com
 - 学校：昆明理工大学（硕士） | 研究方向：医疗信息处理
 - GitHub：https://github.com/ztchen89 | Blog：http://jeremyteng.iteye.com
 
